@@ -6,7 +6,7 @@
 body {
   font-size: 100%;
 }
- 
+
 h3 {
   margin: 0 0 10px;
 }
@@ -236,7 +236,7 @@ header {
 }
 
 /*////////// NAVBAR //////////*/
- 
+
 #navbar {
   position: fixed;
   top: 0;
